@@ -1,0 +1,13 @@
+This is a git practice set 2.
+
+Flow of git :
+    --> git init
+    --> git config user.name "Name"
+    --> git config user.email "gmail"
+    --> git status
+    --> git add fn | .
+    --> git commit -m "msg"
+    --> git status
+    --> git log
+    --> git diff fn
+    --> git checkout fn
