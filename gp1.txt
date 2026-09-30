@@ -1,9 +1,0 @@
-This is a git practice set 1.
-
-In git there are few terem :
-    1. git 
-    2. version
-    3. save point
-    4. compare
-    5. roll back
-    6. local git 
